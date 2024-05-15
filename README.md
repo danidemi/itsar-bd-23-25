@@ -1,7 +1,6 @@
 # itsar-bd-23-25
-<<<<<<< HEAD
+
 esercizi
-=======
 
 Commento bello, GG
 esercizi
@@ -29,4 +28,3 @@ Forza milan
 
 'Lorem ipsum'
 
->>>>>>> 53581281d09c04883582725c440d24b0d0ea6fc7
