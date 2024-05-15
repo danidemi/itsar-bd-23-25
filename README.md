@@ -6,7 +6,12 @@ Fumaghe is cookingggg
 =======
 Ciao sono Daniele
 <<<<<<< HEAD
+<<<<<<< HEAD
 Prova prova sa sa, sono Pier
+=======
+🐥
+Ciao sono William
+>>>>>>> 6b6dc2404edc7e89b10c53ef9a8c685d4356c8b6
 =======
 <<<<<<< HEAD
 Davide 🐥
