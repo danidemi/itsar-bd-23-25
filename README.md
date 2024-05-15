@@ -1,6 +1,9 @@
 # itsar-bd-23-25
 esercizi
 
+<<<<<<< HEAD
+Fumaghe is cookingggg
+=======
 Ciao sono Daniele
 <<<<<<< HEAD
 🐥
